@@ -1,0 +1,25 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  /* 背景色 */
+  background-color: #00cc00;
+  margin: 100px;
+  padding: 100px;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  border: 5px solid yellow;
+  padding: 70px;
+  margin: -20px;
+}
+
+.box3 {
+  width: 100px;
+  height: 100px;
+  background-color: blanchedalmond;
+  border: 10px double greenyellow;
+  margin: 40px;
+}
